@@ -35,13 +35,15 @@
 
 /* ⚙️ Channel settings here and u didn't finished */
 [src="/assets/c1875fc8a42a61903ba1.svg"],
-[src="/assets/73984240bd99493de947.svg"] {
+[src="/assets/73984240bd99493de947.svg"],
+[src="/assets/2d64f563ddcbb3464c11.svg"]{
     content: url("https://nyri4.github.io/Discolored/assets/channel_settings.svg");
 }
 
 /* ⚙️ Category settings */
 [src="/assets/1964f50ca0220e98dc32.svg"],
-[src="/assets/387a7c504c96b992872d.svg"] {
+[src="/assets/387a7c504c96b992872d.svg"],
+[src="/assets/bee7d5d304fb6f3ecc3e.svg"]{
     content: url("https://nyri4.github.io/Discolored/assets/category_settings.svg");
 }
 
@@ -229,7 +231,8 @@
 
 /* 🗝️ Treasure Chest */
 [src="/assets/67430d140a79af95585a19d304731dc5.svg"],
-[src="/assets/d6779172ed9209b5ad49df923ea7820c.svg"] {
+[src="/assets/d6779172ed9209b5ad49df923ea7820c.svg"],
+[src="/assets/0dd9293cce43826a9f23.svg"]{
     content: url("https://nyri4.github.io/Discolored/assets/treasure_chest.svg");
 }
 
